@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6zuoPqalWdXs3vpKeOWDjaDwfUjw6sYG+56fWBbU2EE=",
+  "Source": "MinIO.PutObject",
+  "BasePath": "_content/MinIO.PutObject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

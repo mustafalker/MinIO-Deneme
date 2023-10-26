@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQ4/xmYPK+Ttq6N/OzcegfrkBWUYMF1ujwTo5I/sEyCmLDcsLvZ/e9oW5CbxFVFceN2mzx/nNio64MswjuWPSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mustafa.ulker\\Desktop\\Mustafa\\Ödev\\MınIO\\MinIO.PutObject\\MinIO.PutObject\\MinIO.PutObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\awssdk.core\\3.7.204.6\\awssdk.core.3.7.204.6.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\awssdk.s3\\3.7.205.15\\awssdk.s3.3.7.205.15.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mustafa.ulker\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
